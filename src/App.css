@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(119, 115, 115);
+  display: flex;
+}
+
+.card-body{
+  background-color: rgb(0, 0, 0);
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.card-header{
+  background-color: rgb(248, 164, 38);
+  flex: 0;
+  
+  text-align: center;
+  
+  
+}
+
+.card-footer{
+
+  
+}
+
+
+.btn{
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: rgb(148, 194, 247);
+  border-radius: 20%;
+}
